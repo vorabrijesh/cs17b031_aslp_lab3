@@ -1,6 +1,6 @@
 
-main:
-
+main:                     #program to multiply two numbers a and b using only the shift instructions
+                        
 li $s0, 16
 #sll $t0,$s0,2
 #srl $t1,$s0,2
